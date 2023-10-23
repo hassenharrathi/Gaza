@@ -1,0 +1,4 @@
+test\login\LoginTest.class
+test\login\ConsulterListTest.class
+test\login\ForgotPwdTest.class
+preTest\BaseTest.class

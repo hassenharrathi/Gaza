@@ -1,0 +1,7 @@
+resources\Configuration.class
+pages\LoginMail.class
+pages\LoginPage.class
+pages\AcceuilPage.class
+pages\CookiesPage.class
+pages\MenuPage.class
+pages\ForgotPwd.class
